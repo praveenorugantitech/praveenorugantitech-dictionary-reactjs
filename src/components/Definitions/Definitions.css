@@ -3,7 +3,7 @@
   flex-direction: column;
   overflow-y: scroll;
   scrollbar-width: thin;
-  height: 60vh;
+  height: 80vh;
   border: 10px solid rgb(105, 105, 105);
   border-radius: 10px;
   padding: 10px 20px;
@@ -19,7 +19,7 @@
   .meanings {
     overflow: scroll;
     overflow-x: hidden;
-    height: 60vh;
+    height: 80vh;
   }
 }
 .singleMean {
