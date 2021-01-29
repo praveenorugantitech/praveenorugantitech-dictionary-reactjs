@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/praveenorugantitech-dictionary-reactjs/static/css/main.63e295a3.chunk.css",
+    "main.css": "/praveenorugantitech-dictionary-reactjs/static/css/main.2f69aab7.chunk.css",
     "main.js": "/praveenorugantitech-dictionary-reactjs/static/js/main.02c3a429.chunk.js",
     "runtime-main.js": "/praveenorugantitech-dictionary-reactjs/static/js/runtime-main.289e2fe1.js",
     "static/js/2.6f3bdd76.chunk.js": "/praveenorugantitech-dictionary-reactjs/static/js/2.6f3bdd76.chunk.js",
@@ -10,7 +10,7 @@
   "entrypoints": [
     "static/js/runtime-main.289e2fe1.js",
     "static/js/2.6f3bdd76.chunk.js",
-    "static/css/main.63e295a3.chunk.css",
+    "static/css/main.2f69aab7.chunk.css",
     "static/js/main.02c3a429.chunk.js"
   ]
 }
