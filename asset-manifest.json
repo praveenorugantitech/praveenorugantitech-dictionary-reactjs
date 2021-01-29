@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/praveenorugantitech-dictionary-reactjs/static/css/main.44d3c7f8.chunk.css",
+    "main.js": "/praveenorugantitech-dictionary-reactjs/static/js/main.02c3a429.chunk.js",
+    "runtime-main.js": "/praveenorugantitech-dictionary-reactjs/static/js/runtime-main.289e2fe1.js",
+    "static/js/2.6f3bdd76.chunk.js": "/praveenorugantitech-dictionary-reactjs/static/js/2.6f3bdd76.chunk.js",
+    "index.html": "/praveenorugantitech-dictionary-reactjs/index.html",
+    "static/js/2.6f3bdd76.chunk.js.LICENSE.txt": "/praveenorugantitech-dictionary-reactjs/static/js/2.6f3bdd76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.289e2fe1.js",
+    "static/js/2.6f3bdd76.chunk.js",
+    "static/css/main.44d3c7f8.chunk.css",
+    "static/js/main.02c3a429.chunk.js"
+  ]
+}
