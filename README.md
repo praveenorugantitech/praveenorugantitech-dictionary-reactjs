@@ -25,7 +25,9 @@ For example,
 
 ### Setup Local Instructions
 
-- git clone https://github.com/praveenorugantitech/praveenorugantitech-dictionary-reactjs.git
-- cd praveenorugantitech-dictionary-reactjs
-- npm install
-- npm start
+```
+git clone https://github.com/praveenorugantitech/praveenorugantitech-dictionary-reactjs.git
+cd praveenorugantitech-dictionary-reactjs
+npm install
+npm start
+```
