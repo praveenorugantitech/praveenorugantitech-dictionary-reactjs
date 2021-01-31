@@ -2,7 +2,7 @@
 
 ### API
 
-[https://api.dictionaryapi.dev/api/v2/entries/${language}/${word}](https://api.dictionaryapi.dev/api/v2/entries/${language}/${word})
+[https://api.dictionaryapi.dev/api/v2/entries/language/word](https://api.dictionaryapi.dev/api/v2/entries/language/word)
 
 For example,
 
