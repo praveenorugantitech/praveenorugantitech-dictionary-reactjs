@@ -2,6 +2,10 @@
 
 ### API
 
+[https://api.dictionaryapi.dev/api/v2/entries/${category}/${word}](https://api.dictionaryapi.dev/api/v2/entries/${category}/${word})
+
+For example,
+
 [https://api.dictionaryapi.dev/api/v2/entries/en/table](https://api.dictionaryapi.dev/api/v2/entries/en/table)
 
 
